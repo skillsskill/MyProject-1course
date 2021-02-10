@@ -1,3 +1,4 @@
+https://github.com/skillsskill/MyProject-1course/blob/main/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%205.cpp
 // Занятие 5 
 // Зд 1
 
